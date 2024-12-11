@@ -1,0 +1,42 @@
+﻿Cenário
+Uma loja de e-commerce deseja analisar suas operações e melhorar a tomada de decisão. O Data Warehouse será usado para centralizar informações sobre vendas, clientes, produtos e marketing.
+
+Regras de Negócio
+Granularidade dos dados
+
+O Data Warehouse deve armazenar as vendas no nível de detalhe de cada transação (uma linha por pedido ou item vendido).
+Histórico de dados
+
+Manter o histórico de vendas dos últimos 3 anos, permitindo comparações sazonais.
+Periodicidade de atualização
+
+Os dados das transações devem ser atualizados diariamente no DW após o fechamento das operações do dia.
+Conversão de moedas
+
+Se houver vendas em múltiplas moedas, os valores devem ser armazenados em USD como padrão, usando a taxa de câmbio do dia.
+Segmentação de clientes
+
+Categorizar clientes em grupos com base no total gasto em compras:
+Bronze: Clientes que gastaram até $500.
+Prata: Clientes que gastaram entre $501 e $2000.
+Ouro: Clientes que gastaram acima de $2000.
+Indicadores-chave (KPIs)
+
+O Data Warehouse deve permitir calcular os seguintes indicadores:
+Faturamento diário, mensal e anual.
+Margem de lucro por produto e por categoria.
+Produtos mais vendidos por região.
+Ticket médio (valor médio por transação).
+Dados de marketing
+
+Relacionar vendas com campanhas publicitárias (ex.: promoções, e-mails de marketing).
+Calcular o ROI (Retorno sobre o Investimento) de campanhas, comparando os custos com o faturamento gerado.
+Geolocalização
+
+Armazenar o país e a cidade de onde as vendas foram realizadas, permitindo análises regionais.
+Análise de sazonalidade
+
+Marcar as vendas feitas em feriados ou períodos promocionais (ex.: Black Friday, Natal) para identificar picos de consumo.
+Controle de acessos
+
+Analistas de marketing terão acesso apenas aos dados agregados de vendas e campanhas, enquanto o time financeiro terá acesso ao faturamento detalhado.
