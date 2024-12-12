@@ -3,7 +3,6 @@
 
 -- modelo logico da fonte.
 /******************************************************************************************************************************/
-CREATE SCHEMA IF NOT EXISTS origem_dados;
 
 -- TABELA: TB_PAIS
 CREATE SEQUENCE IF NOT EXISTS SQ_PAIS INCREMENT 1 START 1 ;
