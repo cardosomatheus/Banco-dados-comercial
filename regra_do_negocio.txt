@@ -11,10 +11,6 @@ Manter o histórico de vendas dos últimos 3 anos, permitindo comparações sazo
 Periodicidade de atualização
 
 Os dados das transações devem ser atualizados diariamente no DW após o fechamento das operações do dia.
-Conversão de moedas
-
-Se houver vendas em múltiplas moedas, os valores devem ser armazenados em USD como padrão, usando a taxa de câmbio do dia.
-Segmentação de clientes
 
 Categorizar clientes em grupos com base no total gasto em compras:
 Bronze: Clientes que gastaram até $500.
