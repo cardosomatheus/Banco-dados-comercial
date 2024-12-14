@@ -4,9 +4,19 @@ services:
   db-origem:
     image: postgres:latest
     environment:
-      POSTGRES_PASSWORD: "mcds123origem"
-      POSTGRES_USER: "user_origem"
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD_ORIGEM}
+      POSTGRES_USER: ${POSTGRES_USER_ORIGEM}
     ports:
       - "5432:5432"
     volumes:
-      - /c/log_postgres/origem:/var/lib/postgresql/data
+      - ${VOLUME_ORIGEM}
+  
+  db-destino:
+    image: postgres:latest
+    environment:
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD_DESTINO}
+      POSTGRES_USER: ${POSTGRES_USER_DESTINO}
+    ports:
+      - "5433:5432"
+    volumes:
+      - ${VOLUME_DESTINO}
