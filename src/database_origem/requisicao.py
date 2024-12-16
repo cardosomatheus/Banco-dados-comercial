@@ -14,7 +14,7 @@ class Requisicao:
         return response.json()
     
     
-    def retorna_requisicao_texto(self, url_get) -> dict:
+    def retorna_requisicao_texto(self, url_get) -> str:
         response = requests.get(url_get) 
         if response.status_code != 200:
             raise ('falha na requisicao, Eror: ', response.content)            

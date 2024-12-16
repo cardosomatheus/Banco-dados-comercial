@@ -5,8 +5,8 @@ from requisicao import Requisicao
 
 class Cidade(Requisicao):
     def __init__(self):
-        self.url_get = 'https://servicodados.ibge.gov.br/api/v1/localidades/estados/' #{UF}/municipios' 
         super().__init__()
+        self.url_get = 'https://servicodados.ibge.gov.br/api/v1/localidades/estados/' #{UF}/municipios'         
         self.conexao = ConexaoBancoOrigem().conectar_banco_origem()
 
   
@@ -20,7 +20,7 @@ class Cidade(Requisicao):
             return cursor.fetchall()[0][0]
     
     
-    def Inserir_cidades_por_uf(self) -> dict:
+    def Inserir_cidades_por_uf(self) -> None:
         estados_json = self.lista_estados()
         
         for row in estados_json:
@@ -28,13 +28,13 @@ class Cidade(Requisicao):
             url_cidade_por_estado = self.url_get+sigla+'/municipios'
             cidades_por_uf = super().retorna_requisicao_json(url_cidade_por_estado)
                      
-            print('Cidades de ',sigla)
+            print('Cidades da uf: ',sigla)
             self.__inserir_cidades(row.get('id'), cidade=cidades_por_uf)
             
         
         
         
-    def __inserir_cidades(self, id_estado, cidade):
+    def __inserir_cidades(self, id_estado, cidade) -> dict:
         with self.conexao.cursor() as cursor:
             for row in cidade:
                 try:
