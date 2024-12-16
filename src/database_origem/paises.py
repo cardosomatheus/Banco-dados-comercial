@@ -39,7 +39,7 @@ class Pais:
                                    """, row)
                     conexao.commit()
 
-                except psycopg2.errors.UniqueViolation as id_pais:
+                except psycopg2.errors.UniqueViolation as iq_pais:
                     conexao.rollback()
                     continue
 
