@@ -1,44 +1,35 @@
-﻿import requests
-from conexao_origem import ConexaoBancoOrigem
+﻿from conexao_origem import ConexaoBancoOrigem
 from psycopg2.errors import UniqueViolation
+from requisicao import Requisicao
 
-class Estados:
+class Estados(Requisicao):
     def __init__(self):
+        super().__init__()
         self.url_get = 'https://servicodados.ibge.gov.br/api/v1/localidades/estados'
         self.conexao = ConexaoBancoOrigem().conectar_banco_origem()
-    
-
-
-    def busca_estados(self) -> dict:
-        response = requests.get(self.url_get) 
-        if response.status_code != 200:
-            raise ('falha na requisicao, Eror: ', response.content)            
-    
-        return response.json()
 
     
     def inserir_estados(self) -> None:
         # Id_pais vai ser estatico no brasil, pois só vou inserir UFs do brasil por enquanto.
-        estados_json = self.busca_estados()
+        estados_json = super().retorna_requisicao_json(url_get=self.url_get)
         id_pais = self.buscar_id_pais()
         
         with self.conexao.cursor() as cursor:
             for row in estados_json:
                 nome = row.get('nome')
                 sigla = row.get('sigla')
-
-                
+  
                 try:
                     cursor.execute("""INSERT INTO TB_ESTADO(NOME, SIGLA, ID_PAIS)
                                         VALUES(%s,%s,%s)""", (nome, sigla, id_pais))
                     self.conexao.commit()
-                    
                     print(f'Estado {nome+'-'+sigla} inserido com sucesso')
+                    
                 except UniqueViolation as iq_estado:
-                    print(f'Estado {nome+'-'+sigla} Já existe')
-                                        
+                    print(f'Estado {nome+'-'+sigla} Já existe')                                        
                     self.conexao.rollback()
-                    continue     
+                    continue 
+                    
         print('LOG: Inserção de estados finalizada.')       
 
 
@@ -51,6 +42,8 @@ class Estados:
                             """)
             return cursor.fetchone()[0]
 
-estados =  Estados()
-#print(estados.busca_estados())
-estados.inserir_estados()
+
+
+if __name__ == '__main__':
+    estados =  Estados()
+    estados.inserir_estados()
