@@ -1,0 +1,1738 @@
+[
+    {
+        "estado": "BA",
+        "cidade": "Salvador",
+        "bairro": "Condomínio Beira Rio",
+        "latitude": 39.4763681,
+        "longitude": -8.5337195
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Juliano Moreira",
+        "latitude": -30.0492787,
+        "longitude": -51.1742798
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Santa Bárbara",
+        "latitude": -30.1194932,
+        "longitude": -51.2538311
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila São Vicente Mártir",
+        "latitude": -30.1051478,
+        "longitude": -51.2444774
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Beco do Adelar",
+        "latitude": -30.1529117,
+        "longitude": -51.2037652
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Beco do Bita",
+        "latitude": -30.1449963,
+        "longitude": -51.1429897
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Castelo",
+        "latitude": -30.1539027,
+        "longitude": -51.1287947
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Cecílio Monza",
+        "latitude": -30.1554892,
+        "longitude": -51.1305885
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Clara Nunes",
+        "latitude": -30.156261,
+        "longitude": -51.1500102
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Esperança",
+        "latitude": -30.2079328,
+        "longitude": -51.1611525
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Campo Novo",
+        "latitude": -30.1283414,
+        "longitude": -51.2043544
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Júlia",
+        "latitude": -30.2126606,
+        "longitude": -51.1768125
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Kanazawa",
+        "latitude": -30.1175923,
+        "longitude": -51.1928894
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Kanazawa",
+        "latitude": -30.1181248,
+        "longitude": -51.1881736
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Monte Cristo",
+        "latitude": -30.1243268,
+        "longitude": -51.2185572
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Morro da Guampa",
+        "latitude": -30.1188505,
+        "longitude": -51.2055988
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Pica-Pau",
+        "latitude": -30.1594863,
+        "longitude": -51.2212708
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Santina",
+        "latitude": -30.1580295,
+        "longitude": -51.2264044
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Vicente Monteggia",
+        "latitude": -30.0995565,
+        "longitude": -51.2234182
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila dos Sargentos",
+        "latitude": -30.165306,
+        "longitude": -51.2289119
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Dique",
+        "latitude": -29.9773585,
+        "longitude": -51.156418
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Keddie",
+        "latitude": -30.0267697,
+        "longitude": -51.1709531
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Nazaré",
+        "latitude": -29.9938327,
+        "longitude": -51.1457579
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Cosme Galvão",
+        "latitude": -30.0208547,
+        "longitude": -51.1670151
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Quilombo do Areal",
+        "latitude": -30.0450251,
+        "longitude": -51.2249696
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Loteamento Santa Terezinha",
+        "latitude": -30.0172022,
+        "longitude": -51.2141015
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Antônio Jacob Renner",
+        "latitude": -29.989371,
+        "longitude": -51.1961438
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Areia",
+        "latitude": -29.9880184,
+        "longitude": -51.2017142
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Dona Teodora",
+        "latitude": -29.9922088,
+        "longitude": -51.1942618
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Esperança",
+        "latitude": -29.9814745,
+        "longitude": -51.1998677
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Leito da Voluntários",
+        "latitude": -29.9861594,
+        "longitude": -51.2005531
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Santo André",
+        "latitude": -29.972644,
+        "longitude": -51.1801581
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Tio Zeca",
+        "latitude": -29.9879546,
+        "longitude": -51.2002495
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Boa Esperança",
+        "latitude": -29.9781186,
+        "longitude": -51.1977852
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila DEPREC",
+        "latitude": -29.9796813,
+        "longitude": -51.2025243
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Liberdade",
+        "latitude": -29.9772573,
+        "longitude": -51.1980663
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Pampa",
+        "latitude": -29.9804221,
+        "longitude": -51.1985603
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Tecnológica",
+        "latitude": -29.979271,
+        "longitude": -51.1981604
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Cristal",
+        "latitude": -30.0846682,
+        "longitude": -51.2369076
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Icaraí",
+        "latitude": -30.0935755,
+        "longitude": -51.2394355
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Nossa Senhora das Graças",
+        "latitude": -30.0945042,
+        "longitude": -51.2392879
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Gaúcha",
+        "latitude": -30.0715916,
+        "longitude": -51.2341159
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Ecológica",
+        "latitude": -30.0784398,
+        "longitude": -51.236554
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila União",
+        "latitude": -30.0762169,
+        "longitude": -51.2319843
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Arapei",
+        "latitude": -30.0859584,
+        "longitude": -51.229652
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Cruzeiro do Sul",
+        "latitude": -30.082635,
+        "longitude": -51.2278492
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Mato Grosso",
+        "latitude": -30.0889082,
+        "longitude": -51.2292434
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Orfanotrófio II",
+        "latitude": -30.0866456,
+        "longitude": -51.2268925
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Ursa Maior",
+        "latitude": -30.0875611,
+        "longitude": -51.2320418
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Buraco Quente",
+        "latitude": -30.077392,
+        "longitude": -51.225081
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Mariano de Matos",
+        "latitude": -30.0690807,
+        "longitude": -51.2123926
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Tronco I",
+        "latitude": -30.0678273,
+        "longitude": -51.2158077
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Orfanotrófio I",
+        "latitude": -30.079123,
+        "longitude": -51.2182064
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Cachorro Sentado",
+        "latitude": -30.0572885,
+        "longitude": -51.1878847
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Ceres",
+        "latitude": -30.057231,
+        "longitude": -51.1635618
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Maria da Conceição",
+        "latitude": -30.064623,
+        "longitude": -51.1946508
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila São Pedro",
+        "latitude": -30.0596323,
+        "longitude": -51.1858314
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Alto Erechim",
+        "latitude": -30.0927022,
+        "longitude": -51.2147034
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Chácara Sperb",
+        "latitude": -30.0905774,
+        "longitude": -51.2113449
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Graciliano Ramos",
+        "latitude": -30.0860639,
+        "longitude": -51.192634
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Jardim Marabá",
+        "latitude": -30.0825175,
+        "longitude": -51.2012779
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Sudeste",
+        "latitude": -30.0649889,
+        "longitude": -51.1648298
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila dos Alpes",
+        "latitude": -30.0917926,
+        "longitude": -51.1940659
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Beco Rua Israel",
+        "latitude": -30.0378621,
+        "longitude": -51.1573089
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Mirim",
+        "latitude": -30.0335819,
+        "longitude": -51.1561321
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Beco da Aquiles",
+        "latitude": -30.0377941,
+        "longitude": -51.1560604
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Margarita",
+        "latitude": -30.0388103,
+        "longitude": -51.1405529
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Batillanas",
+        "latitude": -30.0855276,
+        "longitude": -51.1833002
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Cacimba",
+        "latitude": -30.0747509,
+        "longitude": -51.1648349
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Campo da Tuca",
+        "latitude": -30.0738143,
+        "longitude": -51.1728112
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Chácara dos Bombeiros",
+        "latitude": -30.0815904,
+        "longitude": -51.1709901
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Colina Verde",
+        "latitude": -30.0751103,
+        "longitude": -51.1839014
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Glorinha",
+        "latitude": -30.0787806,
+        "longitude": -51.1892456
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Morro da Cruz",
+        "latitude": -30.0730624,
+        "longitude": -51.1638194
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Embratel",
+        "latitude": -30.0922897,
+        "longitude": -51.1791082
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila São Guilherme",
+        "latitude": -30.0731661,
+        "longitude": -51.1587226
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila São José",
+        "latitude": -30.0793299,
+        "longitude": -51.1624058
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila São Miguel",
+        "latitude": -30.0766264,
+        "longitude": -51.1763097
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Canudos",
+        "latitude": -30.0933489,
+        "longitude": -51.1722185
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Vargas",
+        "latitude": -30.0793388,
+        "longitude": -51.1665471
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Mato Sampaio",
+        "latitude": -30.0486667,
+        "longitude": -51.1615738
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Santa Helena",
+        "latitude": -30.0549038,
+        "longitude": -51.1449986
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Biriba",
+        "latitude": -30.0701471,
+        "longitude": -51.1435738
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Nova Pedreira",
+        "latitude": -30.0474796,
+        "longitude": -51.1321218
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Tijuca",
+        "latitude": -30.0454529,
+        "longitude": -51.1267728
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila das Laranjeiras",
+        "latitude": -30.0479034,
+        "longitude": -51.1297862
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Jardim Passo das Pedras II",
+        "latitude": -30.0243757,
+        "longitude": -51.1248086
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Jardim dos Coqueiros",
+        "latitude": -30.0283162,
+        "longitude": -51.1291629
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Chácara da Fumaça I",
+        "latitude": -30.0311908,
+        "longitude": -51.1166264
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Valneri Antunes",
+        "latitude": -30.0289771,
+        "longitude": -51.1100491
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Safira",
+        "latitude": -30.0367929,
+        "longitude": -51.1041353
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Ilha do Pavão",
+        "latitude": -29.9938328,
+        "longitude": -51.2198818
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila dos Marinheiros",
+        "latitude": -29.9956728,
+        "longitude": -51.2256919
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Guaíba",
+        "latitude": -30.0980796,
+        "longitude": -51.2619342
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila Quinta do Portal",
+        "latitude": -30.1064791,
+        "longitude": -51.1418129
+    },
+    {
+        "estado": "RS",
+        "cidade": "Porto Alegre",
+        "bairro": "Vila São Judas Tadeu",
+        "latitude": -30.0615546,
+        "longitude": -51.1790489
+    },
+    {
+        "estado": "PR",
+        "cidade": "Curitiba",
+        "bairro": "Conjunto Osvaldo Cruz I",
+        "latitude": -25.5133187,
+        "longitude": -49.3218572
+    },
+    {
+        "estado": "PR",
+        "cidade": "Curitiba",
+        "bairro": "Centro Histórico",
+        "latitude": -25.4283535,
+        "longitude": -49.2737204
+    },
+    {
+        "estado": "PE",
+        "cidade": "Recife",
+        "bairro": "Largo do Maracanã",
+        "latitude": -8.0067253,
+        "longitude": -34.9364499
+    },
+    {
+        "estado": "CE",
+        "cidade": "Fortaleza",
+        "bairro": "Vila Jardim Violeta",
+        "latitude": -3.8123958,
+        "longitude": -38.4941235
+    },
+    {
+        "estado": "CE",
+        "cidade": "Fortaleza",
+        "bairro": "Conjunto São Miguel",
+        "latitude": -3.8287136,
+        "longitude": -38.4798149
+    },
+    {
+        "estado": "CE",
+        "cidade": "Fortaleza",
+        "bairro": "Terra Prometida",
+        "latitude": -3.7829877,
+        "longitude": -38.5406517
+    },
+    {
+        "estado": "CE",
+        "cidade": "Fortaleza",
+        "bairro": "Conj Novo Lar",
+        "latitude": -3.8096069,
+        "longitude": -38.5842835
+    },
+    {
+        "estado": "CE",
+        "cidade": "Fortaleza",
+        "bairro": "Loteamento Alfa Park",
+        "latitude": -3.8252115,
+        "longitude": -38.4584026
+    },
+    {
+        "estado": "CE",
+        "cidade": "Fortaleza",
+        "bairro": "Comunidade Suvaco da Cobra",
+        "latitude": -3.8274734,
+        "longitude": -38.4572272
+    },
+    {
+        "estado": "CE",
+        "cidade": "Fortaleza",
+        "bairro": "Loteamento Paraíso Verde",
+        "latitude": -3.8103299,
+        "longitude": -38.6205926
+    },
+    {
+        "estado": "CE",
+        "cidade": "Fortaleza",
+        "bairro": "Parque Itamaraty",
+        "latitude": -3.863504,
+        "longitude": -38.4867428
+    },
+    {
+        "estado": "CE",
+        "cidade": "Fortaleza",
+        "bairro": "Parque Alto Alegre",
+        "latitude": -3.8578106,
+        "longitude": -38.4941501
+    },
+    {
+        "estado": "CE",
+        "cidade": "Fortaleza",
+        "bairro": "Parque Elisabeth",
+        "latitude": -3.8681809,
+        "longitude": -38.4940247
+    },
+    {
+        "estado": "CE",
+        "cidade": "Fortaleza",
+        "bairro": "Santa Fé",
+        "latitude": -3.8622504,
+        "longitude": -38.5034814
+    },
+    {
+        "estado": "CE",
+        "cidade": "Fortaleza",
+        "bairro": "Loteamento Laguna Park",
+        "latitude": -3.8239114,
+        "longitude": -38.4667797
+    },
+    {
+        "estado": "CE",
+        "cidade": "Fortaleza",
+        "bairro": "Loteamento Jardim Arrebol",
+        "latitude": -3.8393705,
+        "longitude": -38.4701302
+    },
+    {
+        "estado": "CE",
+        "cidade": "Fortaleza",
+        "bairro": "Vila Pita",
+        "latitude": -3.7369394,
+        "longitude": -38.5012839
+    },
+    {
+        "estado": "CE",
+        "cidade": "Fortaleza",
+        "bairro": "Novo Renascer do Itaperi",
+        "latitude": -3.8258877,
+        "longitude": -38.5658852
+    },
+    {
+        "estado": "CE",
+        "cidade": "Fortaleza",
+        "bairro": "Conjunto Residencial dos Escritores",
+        "latitude": -3.8513595,
+        "longitude": -38.4904454
+    },
+    {
+        "estado": "PA",
+        "cidade": "Belém",
+        "bairro": "Comunidade Bom Jesus",
+        "latitude": -1.3539394,
+        "longitude": -48.4749769
+    },
+    {
+        "estado": "PA",
+        "cidade": "Belém",
+        "bairro": "Ocupação IBIFAM",
+        "latitude": -1.3413948,
+        "longitude": -48.4504176
+    },
+    {
+        "estado": "PA",
+        "cidade": "Belém",
+        "bairro": "Conjunto Bosque Araguaia",
+        "latitude": -1.326368,
+        "longitude": -48.4776636
+    },
+    {
+        "estado": "PA",
+        "cidade": "Belém",
+        "bairro": "Bairro de Caselas",
+        "latitude": 38.7161358,
+        "longitude": -9.2143399
+    },
+    {
+        "estado": "PA",
+        "cidade": "Belém",
+        "bairro": "Caramão da Ajuda",
+        "latitude": 38.7131581,
+        "longitude": -9.2067949
+    },
+    {
+        "estado": "PA",
+        "cidade": "Belém",
+        "bairro": "Condomínio Alto de Pinheiros",
+        "latitude": -1.3664484,
+        "longitude": -48.4723577
+    },
+    {
+        "estado": "PA",
+        "cidade": "Belém",
+        "bairro": "Residencial Bom Jesus",
+        "latitude": -1.3283992,
+        "longitude": -48.4791708
+    },
+    {
+        "estado": "PA",
+        "cidade": "Belém",
+        "bairro": "Residencial Itapuã",
+        "latitude": -1.3371572,
+        "longitude": -48.4653745
+    },
+    {
+        "estado": "PA",
+        "cidade": "Belém",
+        "bairro": "Residencial Rio Volga",
+        "latitude": -1.3361981,
+        "longitude": -48.4659707
+    },
+    {
+        "estado": "PA",
+        "cidade": "Belém",
+        "bairro": "Belém",
+        "latitude": -19.9196538,
+        "longitude": -44.0973119
+    },
+    {
+        "estado": "SC",
+        "cidade": "Florianópolis",
+        "bairro": "Panaia",
+        "latitude": -27.6655629,
+        "longitude": -48.5358839
+    },
+    {
+        "estado": "SC",
+        "cidade": "Florianópolis",
+        "bairro": "Vila Aparecida",
+        "latitude": -27.6057096,
+        "longitude": -48.5869645
+    },
+    {
+        "estado": "SC",
+        "cidade": "Florianópolis",
+        "bairro": "Vila Arranha Céu",
+        "latitude": -27.6070726,
+        "longitude": -48.5847438
+    },
+    {
+        "estado": "SC",
+        "cidade": "Florianópolis",
+        "bairro": "Vila Caiera da Vila Operária",
+        "latitude": -27.5968465,
+        "longitude": -48.5363932
+    },
+    {
+        "estado": "SC",
+        "cidade": "Florianópolis",
+        "bairro": "Vila Mac Laren",
+        "latitude": -27.6079833,
+        "longitude": -48.5877838
+    },
+    {
+        "estado": "SC",
+        "cidade": "Florianópolis",
+        "bairro": "Vila Monte Cristo",
+        "latitude": -27.5886942,
+        "longitude": -48.5999943
+    },
+    {
+        "estado": "SC",
+        "cidade": "Florianópolis",
+        "bairro": "Vila Morro Mariquinha",
+        "latitude": -27.598686,
+        "longitude": -48.541083
+    },
+    {
+        "estado": "SC",
+        "cidade": "Florianópolis",
+        "bairro": "Vila Morro do 25",
+        "latitude": -27.5813346,
+        "longitude": -48.5382037
+    },
+    {
+        "estado": "SC",
+        "cidade": "Florianópolis",
+        "bairro": "Vila Nova Jerusalém",
+        "latitude": -27.6076063,
+        "longitude": -48.5862419
+    },
+    {
+        "estado": "SC",
+        "cidade": "Florianópolis",
+        "bairro": "Vila Santa Clara - Monsenhor Topp",
+        "latitude": -27.592822,
+        "longitude": -48.538719
+    },
+    {
+        "estado": "SC",
+        "cidade": "Florianópolis",
+        "bairro": "Vila Santa Rosa",
+        "latitude": -27.5746243,
+        "longitude": -48.530006
+    },
+    {
+        "estado": "SC",
+        "cidade": "Florianópolis",
+        "bairro": "Loteamento Vilas do Ribeirão",
+        "latitude": -27.7047528,
+        "longitude": -48.5386391
+    },
+    {
+        "estado": "SC",
+        "cidade": "Florianópolis",
+        "bairro": "Comunidade do Morro da Caixa",
+        "latitude": -27.6000424,
+        "longitude": -48.5786164
+    },
+    {
+        "estado": "SC",
+        "cidade": "Florianópolis",
+        "bairro": "Morro do Mocotó",
+        "latitude": -27.6070969,
+        "longitude": -48.5445802
+    },
+    {
+        "estado": "SC",
+        "cidade": "Florianópolis",
+        "bairro": "Comunidade Vila do Arvoredo",
+        "latitude": -27.4447037,
+        "longitude": -48.3891215
+    },
+    {
+        "estado": "SC",
+        "cidade": "Florianópolis",
+        "bairro": "Loteamento Frederico Veras",
+        "latitude": -27.6105918,
+        "longitude": -48.5150432
+    },
+    {
+        "estado": "SC",
+        "cidade": "Florianópolis",
+        "bairro": "Vila Morro do Horácio",
+        "latitude": -27.580608,
+        "longitude": -48.5332995
+    },
+    {
+        "estado": "GO",
+        "cidade": "Goiânia",
+        "bairro": "Setor Bela Vista",
+        "latitude": -16.7152199,
+        "longitude": -49.2611784
+    },
+    {
+        "estado": "AM",
+        "cidade": "Manaus",
+        "bairro": "Comunidade Santa Cruz-Laranjeiras",
+        "latitude": -3.0633313,
+        "longitude": -60.0095424
+    },
+    {
+        "estado": "ES",
+        "cidade": "Vitória",
+        "bairro": "Baixa do Porto",
+        "latitude": 41.1505197,
+        "longitude": -8.6122122
+    },
+    {
+        "estado": "PB",
+        "cidade": "João Pessoa",
+        "bairro": "Residencial Vicenzo",
+        "latitude": -26.4491988,
+        "longitude": -49.0609969
+    },
+    {
+        "estado": "PB",
+        "cidade": "João Pessoa",
+        "bairro": "Loteamento Jardim dos Caetés",
+        "latitude": -26.4198541,
+        "longitude": -49.0869552
+    },
+    {
+        "estado": "PB",
+        "cidade": "João Pessoa",
+        "bairro": "Vila Bernardi",
+        "latitude": -26.4491117,
+        "longitude": -49.0504138
+    },
+    {
+        "estado": "PB",
+        "cidade": "João Pessoa",
+        "bairro": "Vila Raul Hefter",
+        "latitude": -26.448764,
+        "longitude": -49.051485
+    },
+    {
+        "estado": "PB",
+        "cidade": "João Pessoa",
+        "bairro": "Vila Eugênio Karsten",
+        "latitude": -26.4455853,
+        "longitude": -49.0562922
+    },
+    {
+        "estado": "PB",
+        "cidade": "João Pessoa",
+        "bairro": "Village Stark",
+        "latitude": -26.449494,
+        "longitude": -49.0602638
+    },
+    {
+        "estado": "PB",
+        "cidade": "João Pessoa",
+        "bairro": "Loteamento Jardim Vermont",
+        "latitude": -26.4455656,
+        "longitude": -49.0620718
+    },
+    {
+        "estado": "PB",
+        "cidade": "João Pessoa",
+        "bairro": "Loteamento Itapocuzinho",
+        "latitude": -26.4468495,
+        "longitude": -49.064728
+    },
+    {
+        "estado": "PB",
+        "cidade": "João Pessoa",
+        "bairro": "Residencial Marajoara",
+        "latitude": -26.442425,
+        "longitude": -49.0580784
+    },
+    {
+        "estado": "PB",
+        "cidade": "João Pessoa",
+        "bairro": "Residencial Marajoara II",
+        "latitude": -26.4420302,
+        "longitude": -49.0584903
+    },
+    {
+        "estado": "PB",
+        "cidade": "João Pessoa",
+        "bairro": "Loteamento João Lúcio da Costa",
+        "latitude": -26.4446766,
+        "longitude": -49.0677669
+    },
+    {
+        "estado": "PB",
+        "cidade": "João Pessoa",
+        "bairro": "Condomínio Residencial Jaraguá",
+        "latitude": -26.4428901,
+        "longitude": -49.0686604
+    },
+    {
+        "estado": "PB",
+        "cidade": "João Pessoa",
+        "bairro": "Loteamento Dona Benta",
+        "latitude": -26.4426075,
+        "longitude": -49.0695736
+    },
+    {
+        "estado": "PB",
+        "cidade": "João Pessoa",
+        "bairro": "Residencial Recanto dos Pássaros",
+        "latitude": -26.441849,
+        "longitude": -49.0702339
+    },
+    {
+        "estado": "PB",
+        "cidade": "João Pessoa",
+        "bairro": "Residencial Vila Jarita",
+        "latitude": -26.438185,
+        "longitude": -49.0719472
+    },
+    {
+        "estado": "PB",
+        "cidade": "João Pessoa",
+        "bairro": "Loteamento Baviera",
+        "latitude": -26.4376685,
+        "longitude": -49.0728253
+    },
+    {
+        "estado": "PB",
+        "cidade": "João Pessoa",
+        "bairro": "Loteamento Amandos Spredemann",
+        "latitude": -26.4256005,
+        "longitude": -49.0820718
+    },
+    {
+        "estado": "PB",
+        "cidade": "João Pessoa",
+        "bairro": "Loteamento Victor Bauer",
+        "latitude": -26.4447441,
+        "longitude": -49.0589097
+    },
+    {
+        "estado": "PB",
+        "cidade": "João Pessoa",
+        "bairro": "Loteamento Walverde",
+        "latitude": -26.4469279,
+        "longitude": -49.0614177
+    },
+    {
+        "estado": "PB",
+        "cidade": "João Pessoa",
+        "bairro": "Loteamento Dona Benta I",
+        "latitude": -26.4421162,
+        "longitude": -49.0698874
+    },
+    {
+        "estado": "RN",
+        "cidade": "Natal",
+        "bairro": "Conjunto Mirassol",
+        "latitude": -5.8425183,
+        "longitude": -35.2063131
+    },
+    {
+        "estado": "RN",
+        "cidade": "Natal",
+        "bairro": "Conjunto dos Professores",
+        "latitude": -5.8474406,
+        "longitude": -35.1987015
+    },
+    {
+        "estado": "RN",
+        "cidade": "Natal",
+        "bairro": "Bairro Latino",
+        "latitude": -5.8442869,
+        "longitude": -35.2132376
+    },
+    {
+        "estado": "RN",
+        "cidade": "Natal",
+        "bairro": "Conjunto Candelária",
+        "latitude": -5.8382506,
+        "longitude": -35.2184141
+    },
+    {
+        "estado": "RN",
+        "cidade": "Natal",
+        "bairro": "Cidade Jardim",
+        "latitude": -5.8472737,
+        "longitude": -35.2020004
+    },
+    {
+        "estado": "RN",
+        "cidade": "Natal",
+        "bairro": "Parque dos Coqueiros",
+        "latitude": -5.7605681,
+        "longitude": -35.2791174
+    },
+    {
+        "estado": "RN",
+        "cidade": "Natal",
+        "bairro": "Soledade I",
+        "latitude": -5.7474561,
+        "longitude": -35.2539569
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Liberdade",
+        "latitude": -15.6114494,
+        "longitude": -55.9898417
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Novo Milênio",
+        "latitude": -15.6177811,
+        "longitude": -56.0047446
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Residencial Aricá",
+        "latitude": -15.6238403,
+        "longitude": -55.9890032
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Residencial Nico Baracat 1",
+        "latitude": -15.6150923,
+        "longitude": -55.9807074
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Residencial Nico Baracat 2",
+        "latitude": -15.6125353,
+        "longitude": -55.9777457
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Belita Costa Maques",
+        "latitude": -15.6274817,
+        "longitude": -55.9902748
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Nossa Senhora do Líbano",
+        "latitude": -15.6104165,
+        "longitude": -56.126208
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Jardim Moura",
+        "latitude": -15.6094079,
+        "longitude": -56.1217082
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Francisco Vilanova Filho",
+        "latitude": -15.6085839,
+        "longitude": -56.1230331
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Jardim Kelly",
+        "latitude": -15.6068278,
+        "longitude": -56.1236473
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Altos do São Gonçalo",
+        "latitude": -15.6586514,
+        "longitude": -56.060629
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "San Marino",
+        "latitude": -15.5938342,
+        "longitude": -56.130729
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Novo Tempo",
+        "latitude": -15.6022537,
+        "longitude": -56.0017707
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Jardim das Oliveiras",
+        "latitude": -15.6612561,
+        "longitude": -56.062269
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Jardim Aquário",
+        "latitude": -15.6397814,
+        "longitude": -56.0640496
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Assentamento Terra Prometida",
+        "latitude": -15.5346331,
+        "longitude": -56.0438383
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Vila Formosa",
+        "latitude": -15.5164939,
+        "longitude": -56.0634794
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Barreiro Branco",
+        "latitude": -15.5251239,
+        "longitude": -56.0484297
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Quadra 01",
+        "latitude": -15.6175975,
+        "longitude": -55.9519651
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Quadra 02",
+        "latitude": -15.617728,
+        "longitude": -55.9516583
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Quadra 03",
+        "latitude": -15.6180695,
+        "longitude": -55.9509118
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Jardim Eldorado",
+        "latitude": -15.587294,
+        "longitude": -56.0490116
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Sol Nascente",
+        "latitude": -15.5864597,
+        "longitude": -56.0454765
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Setor C",
+        "latitude": -15.660146,
+        "longitude": -56.0360674
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Setor A",
+        "latitude": -15.6636721,
+        "longitude": -56.0343655
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Setor B",
+        "latitude": -15.660503,
+        "longitude": -56.0310512
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Setor D",
+        "latitude": -15.658218,
+        "longitude": -56.0329228
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Setor E",
+        "latitude": -15.6552963,
+        "longitude": -56.0345355
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Brasil 21",
+        "latitude": -15.6071692,
+        "longitude": -55.9972707
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Village Flamboyant",
+        "latitude": -15.5918437,
+        "longitude": -56.1282308
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Jardim Santa Amália",
+        "latitude": -15.5920303,
+        "longitude": -56.1349948
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Verdão",
+        "latitude": -15.60619,
+        "longitude": -56.1181483
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Jardim Burity",
+        "latitude": -15.6372486,
+        "longitude": -56.0462028
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Sesmaria São José",
+        "latitude": -15.6373014,
+        "longitude": -56.0383659
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Jardim Paraiso",
+        "latitude": -15.63853,
+        "longitude": -56.0434498
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Juscelino Kubitschek",
+        "latitude": -15.6159838,
+        "longitude": -56.0477399
+    },
+    {
+        "estado": "MT",
+        "cidade": "Cuiabá",
+        "bairro": "Humaitá",
+        "latitude": -15.6631326,
+        "longitude": -56.0551172
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Vila Bagdá",
+        "latitude": -5.109277,
+        "longitude": -42.7333876
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Vila Eugênia Ferraz",
+        "latitude": -5.1143371,
+        "longitude": -42.7607144
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Vila Pantanal",
+        "latitude": -5.1213583,
+        "longitude": -42.7596003
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Vila Teresa Brito",
+        "latitude": -5.050069,
+        "longitude": -42.7368582
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Vila Verde",
+        "latitude": -5.1223537,
+        "longitude": -42.757459
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Conj. Dirceu II",
+        "latitude": -5.1108875,
+        "longitude": -42.7605442
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Vila Lucy (Extrema)",
+        "latitude": -5.1205225,
+        "longitude": -42.7537164
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Res. Francisco Marreiros",
+        "latitude": -5.115677,
+        "longitude": -42.7494876
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Lot. Cidade Verde",
+        "latitude": -5.1171761,
+        "longitude": -42.7492494
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Lot. Manoel Evangelista I",
+        "latitude": -5.1154041,
+        "longitude": -42.744947
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Conj. Firmino Filho",
+        "latitude": -5.1127287,
+        "longitude": -42.7367683
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Conj. Renascença I",
+        "latitude": -5.1050927,
+        "longitude": -42.7397412
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Conj. Renascença II",
+        "latitude": -5.0992303,
+        "longitude": -42.7415445
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Parque Progresso",
+        "latitude": -5.0952179,
+        "longitude": -42.7429739
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Parque do Sol",
+        "latitude": -5.0937383,
+        "longitude": -42.7437556
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Vila Alto do Muro",
+        "latitude": -5.0982057,
+        "longitude": -42.7366835
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Conj. Renascença III",
+        "latitude": -5.1035391,
+        "longitude": -42.7346577
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Conj. São Paulo",
+        "latitude": -5.1098718,
+        "longitude": -42.7315509
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Vila Araguaia",
+        "latitude": -5.1066159,
+        "longitude": -42.7321616
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Lot. Porto Rico",
+        "latitude": -5.1018251,
+        "longitude": -42.7313597
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Conj. Todos os Santos",
+        "latitude": -5.1017415,
+        "longitude": -42.7270738
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Lot. Todos os Santos",
+        "latitude": -5.1009751,
+        "longitude": -42.7297374
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Vila Andaraí",
+        "latitude": -5.101604,
+        "longitude": -42.7308805
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Conj. Novo Milênio",
+        "latitude": -5.1052069,
+        "longitude": -42.7262946
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Res. Canaxuê",
+        "latitude": -5.1055238,
+        "longitude": -42.7280103
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Conj. São Sebastião",
+        "latitude": -5.105029,
+        "longitude": -42.7210869
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Conj. Frei Damião",
+        "latitude": -5.0891766,
+        "longitude": -42.73242
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Parque Eldorado",
+        "latitude": -5.0860829,
+        "longitude": -42.7472933
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Vila Lucy (Itararé)",
+        "latitude": -5.114349,
+        "longitude": -42.7533935
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Vila Cel. Carlos Falcão",
+        "latitude": -5.1122521,
+        "longitude": -42.7498434
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Lot. Manoel Evangelista II",
+        "latitude": -5.1086487,
+        "longitude": -42.7433257
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Lot. Manoel Evangelista II",
+        "latitude": -5.1161066,
+        "longitude": -42.7407799
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Res. Dom Helder Câmara",
+        "latitude": -5.0938686,
+        "longitude": -42.7498801
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Res. Dom Avelar",
+        "latitude": -5.0560712,
+        "longitude": -42.7304711
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Planalto Uruguai",
+        "latitude": -5.0539457,
+        "longitude": -42.7384017
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Res. Geovane Prado",
+        "latitude": -5.0490802,
+        "longitude": -42.7438942
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Conj. Taquari",
+        "latitude": -5.0440518,
+        "longitude": -42.7460355
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Vila Maria",
+        "latitude": -5.0425914,
+        "longitude": -42.7487634
+    },
+    {
+        "estado": "PI",
+        "cidade": "Teresina",
+        "bairro": "Conjunto Redonda",
+        "latitude": -5.0974469,
+        "longitude": -42.7382927
+    }
+]

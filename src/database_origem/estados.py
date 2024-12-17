@@ -33,17 +33,19 @@ class Estados(Requisicao):
         print('LOG: Inserção de estados finalizada.')       
 
 
-    def buscar_id_pais (self) -> int:
+    def buscar_id_estado(self, sigla:str) -> int:
+        sigla = sigla.replace(' ','').upper()
+        
         with self.conexao.cursor() as cursor:
-            cursor.execute( """SELECT ID 
-                                FROM TB_PAIS 
-                               WHERE NOME = 'Brasil' 
-                                AND CONTINENTE = 'América' 
-                            """)
-            return cursor.fetchone()[0]
-
-
+            try:
+                cursor.execute( """SELECT ID FROM TB_ESTADO WHERE SIGLA = %s """, (sigla,))
+                                
+                return  cursor.fetchone()[0]
+            except TypeError:
+               return None
+            
 
 if __name__ == '__main__':
     estados =  Estados()
-    estados.inserir_estados()
+    print(estados.buscar_id_estado('  Mg  '))
+    #    estados.inserir_estados()

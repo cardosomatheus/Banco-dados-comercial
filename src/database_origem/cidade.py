@@ -4,7 +4,7 @@ from requisicao import Requisicao
 
 
 class Cidade(Requisicao):
-    def __init__(self):
+    def __init__(self) -> None:
         super().__init__()
         self.url_get = 'https://servicodados.ibge.gov.br/api/v1/localidades/estados/' #{UF}/municipios'         
         self.conexao = ConexaoBancoOrigem().conectar_banco_origem()
@@ -34,7 +34,7 @@ class Cidade(Requisicao):
         
         
         
-    def __inserir_cidades(self, id_estado, cidade) -> dict:
+    def __inserir_cidades(self, id_estado, cidade) -> None:
         with self.conexao.cursor() as cursor:
             for row in cidade:
                 try:
@@ -45,6 +45,16 @@ class Cidade(Requisicao):
                 except UniqueViolation as iq_estado:                                      
                     self.conexao.rollback()
                     continue 
+    
+    def buscar_id_cidade(self, nome:str, id_estado:int) -> int:
+        
+        with self.conexao.cursor() as cursor:
+            try:
+                cursor.execute( """SELECT ID FROM TB_CIDADE WHERE UPPER(NOME) = UPPER(TRIM(%s)) AND ID_ESTADO = %s """, (nome,id_estado,))
+                                
+                return  cursor.fetchone()[0]
+            except TypeError:
+               return None
 
                 
 
