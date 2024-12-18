@@ -16,7 +16,7 @@ class Regiao():
     
     
     def leitura_json(self) -> pd.DataFrame:
-        df = pd.read_json('C:\git matheus\datewarehouse_comercial\lat_long.json', orient='records', encoding='utf-8')
+        df = pd.read_json('C:\git matheus\datewarehouse_comercial\src\database_origem\_bairros_brasil.json', orient='records', encoding='utf-8')
         return df
 
 
