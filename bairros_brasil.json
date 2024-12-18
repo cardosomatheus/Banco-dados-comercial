@@ -1,5 +1,1335 @@
 [
     {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Condomínio Residencial Guatambu Park",
+        "latitude": -21.2561646,
+        "longitude": -50.3853509
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Condominio Garden Village",
+        "latitude": -22.2035415,
+        "longitude": -51.2926139
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Conjunto Habitacional BNH",
+        "latitude": -23.9756974,
+        "longitude": -46.3074002
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Conjunto Habitacional Jaú",
+        "latitude": -23.9736559,
+        "longitude": -46.3100297
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Conjunto Habitacional IAPI",
+        "latitude": -23.9738202,
+        "longitude": -46.3075831
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Parque Residencial Nova Esperança",
+        "latitude": -20.7423124,
+        "longitude": -49.413858
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Núcleo Jardim Guaracy",
+        "latitude": -23.4808712,
+        "longitude": -46.3948984
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Núcleo Jardim Sandra",
+        "latitude": -23.4723347,
+        "longitude": -46.3965056
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Núcleo Sítio São Francisco",
+        "latitude": -23.4545585,
+        "longitude": -46.3975165
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila 3 Mosqueteiros",
+        "latitude": -23.7178651,
+        "longitude": -46.6078685
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Alice",
+        "latitude": -23.6773097,
+        "longitude": -46.5978649
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Arraial Paulista",
+        "latitude": -23.6247121,
+        "longitude": -46.7900819
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Nova Batistini",
+        "latitude": -23.7543676,
+        "longitude": -46.5822628
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Casa Branca",
+        "latitude": -23.6463544,
+        "longitude": -46.7977683
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Cidade Miguel Brada Jaguari",
+        "latitude": -23.4950475,
+        "longitude": -46.3118402
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Cidade Parque Alvorada",
+        "latitude": -23.4420399,
+        "longitude": -46.4214676
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Cristina",
+        "latitude": -23.652791,
+        "longitude": -46.6053847
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Córrego da Água Vermelha",
+        "latitude": -23.5170325,
+        "longitude": -46.4170277
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Dom Macário",
+        "latitude": -23.6195251,
+        "longitude": -46.6132669
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Galpozani",
+        "latitude": -23.6493334,
+        "longitude": -46.7751722
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Granja Eliana",
+        "latitude": -23.4385757,
+        "longitude": -46.4029221
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Gruta das Princesas",
+        "latitude": -23.4827445,
+        "longitude": -46.3941705
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Guaiçara",
+        "latitude": -23.6462111,
+        "longitude": -46.7993803
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Imbaúva",
+        "latitude": -23.714994,
+        "longitude": -46.6136767
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Ipelândia Área do DAEE",
+        "latitude": -23.6244956,
+        "longitude": -46.3095975
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim Ana Maria",
+        "latitude": -23.6250705,
+        "longitude": -46.762381
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim Bonsucesso - Jardim dos Pimentas - Parque Jandaia",
+        "latitude": -23.4585555,
+        "longitude": -46.401847
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim Catanduva",
+        "latitude": -23.636553,
+        "longitude": -46.7674795
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim Freitas Júnior - Jardim Trianon",
+        "latitude": -23.6316843,
+        "longitude": -46.7963035
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim Jaci",
+        "latitude": -23.471485,
+        "longitude": -46.3937849
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim Maia",
+        "latitude": -23.48307,
+        "longitude": -46.4160535
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim Maristela",
+        "latitude": -23.6384283,
+        "longitude": -46.600924
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim Morro Oriente",
+        "latitude": -23.636186,
+        "longitude": -46.759134
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim Nancy",
+        "latitude": -23.4739457,
+        "longitude": -46.3949868
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim Normândia",
+        "latitude": -23.4455131,
+        "longitude": -46.4023005
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim Nova Cidade",
+        "latitude": -23.4433292,
+        "longitude": -46.402003
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim Olinda",
+        "latitude": -23.63113,
+        "longitude": -46.7559495
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim Pantanal",
+        "latitude": -23.4802409,
+        "longitude": -46.4094535
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim Paris",
+        "latitude": -23.638339,
+        "longitude": -46.7713064
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim Planalto",
+        "latitude": -23.6117825,
+        "longitude": -46.518559
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim Record",
+        "latitude": -23.626652,
+        "longitude": -46.7972825
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim Santa Bárbara",
+        "latitude": -23.4568332,
+        "longitude": -46.5037393
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim Santa Cruz",
+        "latitude": -23.6425774,
+        "longitude": -46.8039466
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim Santa Inês",
+        "latitude": -23.4283805,
+        "longitude": -46.5059231
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim Santa Maria - Parque das Laranjeiras - Jardim Santa E",
+        "latitude": -23.4297276,
+        "longitude": -46.5119704
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim São Domingos",
+        "latitude": -23.4168216,
+        "longitude": -46.4969383
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim São João Batista",
+        "latitude": -23.427154,
+        "longitude": -46.513422
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim São Matinho",
+        "latitude": -23.4831745,
+        "longitude": -46.4134315
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim Umuarama",
+        "latitude": -23.6469435,
+        "longitude": -46.7688085
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim Valéria",
+        "latitude": -23.425175,
+        "longitude": -46.5346533
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Joaquim Meira",
+        "latitude": -23.5753015,
+        "longitude": -46.4870235
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Lagoa Azul",
+        "latitude": -23.2534822,
+        "longitude": -45.9728426
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Laurita",
+        "latitude": -23.4784831,
+        "longitude": -46.4011602
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Leônidas Moreira",
+        "latitude": -23.6432505,
+        "longitude": -46.7781605
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Liviero",
+        "latitude": -23.6532514,
+        "longitude": -46.6005327
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Machado Nunes",
+        "latitude": -23.578604,
+        "longitude": -46.4853297
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Margarida",
+        "latitude": -23.482405,
+        "longitude": -46.390027
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Missionária",
+        "latitude": -23.647039,
+        "longitude": -46.7711615
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Monforte de Lemos",
+        "latitude": -23.648431,
+        "longitude": -46.771574
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Morada do Sol",
+        "latitude": -23.571209,
+        "longitude": -46.492748
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Nova",
+        "latitude": -23.6387124,
+        "longitude": -46.7710069
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Pantanal",
+        "latitude": -23.4748717,
+        "longitude": -46.4178337
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Pantanal 2",
+        "latitude": -23.4845531,
+        "longitude": -46.4517915
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Parque Guaianases",
+        "latitude": -23.5214762,
+        "longitude": -46.415589
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Parque Imperial",
+        "latitude": -23.4263986,
+        "longitude": -46.5065458
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Parque Jandaia",
+        "latitude": -23.4572455,
+        "longitude": -46.4037595
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Professora Nina Stocco",
+        "latitude": -23.6283744,
+        "longitude": -46.7609091
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Recreio Santa Maria",
+        "latitude": -23.6573586,
+        "longitude": -46.3146499
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Regina",
+        "latitude": -23.6381514,
+        "longitude": -46.76013
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Rica",
+        "latitude": -23.644645,
+        "longitude": -46.3163498
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Rio Fartura",
+        "latitude": -23.55764,
+        "longitude": -46.4115168
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Roland Berigan",
+        "latitude": -23.485231,
+        "longitude": -46.4408498
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Rua Coronel Fermino de Azevedo",
+        "latitude": -21.7366513,
+        "longitude": -48.6974572
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Rua Itaguara",
+        "latitude": -23.651277,
+        "longitude": -46.634394
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Safira",
+        "latitude": -23.4753097,
+        "longitude": -46.412505
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Santa Cruz dos Navegantes",
+        "latitude": -23.9978401,
+        "longitude": -46.304473
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila São José",
+        "latitude": -23.6101775,
+        "longitude": -46.5409633
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila São Pedro",
+        "latitude": -23.6523384,
+        "longitude": -46.5968905
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Yamberê",
+        "latitude": -23.7182093,
+        "longitude": -46.6096288
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jardim Canaã",
+        "latitude": -23.4402843,
+        "longitude": -46.3906889
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Olímpia",
+        "latitude": -22.8343561,
+        "longitude": -47.1447692
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Jardim Paraiso",
+        "latitude": -23.417426,
+        "longitude": -46.505163
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Centro",
+        "latitude": -20.7314664,
+        "longitude": -47.7518858
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Condomínio Santa Isabel",
+        "latitude": -23.7741247,
+        "longitude": -47.0891746
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Jardim América 2",
+        "latitude": -23.1949016,
+        "longitude": -46.8268425
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila COMOVE",
+        "latitude": -20.7046542,
+        "longitude": -47.885582
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Jardim Prado",
+        "latitude": -20.7109295,
+        "longitude": -47.8809215
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Jardim Cecchini",
+        "latitude": -20.6996163,
+        "longitude": -47.888001
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Conjunto Habitacional Minha Casa Minha Vida",
+        "latitude": -20.7060429,
+        "longitude": -47.9033475
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Parque Linear",
+        "latitude": -22.704209,
+        "longitude": -46.7727748
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Residencial David Fernandes Coelho",
+        "latitude": -22.8303686,
+        "longitude": -45.1868694
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Jerusalem",
+        "latitude": -23.6648612,
+        "longitude": -46.7608001
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Valquiria",
+        "latitude": -23.6544541,
+        "longitude": -46.7787576
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Residencial Amaro Gera",
+        "latitude": -20.7253864,
+        "longitude": -47.7573267
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Conjunto Habitatacional Octavio Medeiros",
+        "latitude": -21.1004734,
+        "longitude": -48.6703168
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Cohab Taipas 1",
+        "latitude": -23.4435012,
+        "longitude": -46.7156719
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Nova",
+        "latitude": -22.8756975,
+        "longitude": -47.0746113
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "PQ das Palmeiras",
+        "latitude": -22.2514372,
+        "longitude": -51.1509205
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Comunidade Corrego Jaboticabal",
+        "latitude": -23.6424831,
+        "longitude": -46.6035071
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "05 REGIAO DAS CORREDEIRAS",
+        "latitude": -20.7109233,
+        "longitude": -47.7124539
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Bairro Futuro",
+        "latitude": -22.1161282,
+        "longitude": -50.1715102
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Residencial Turim",
+        "latitude": -22.1165666,
+        "longitude": -50.1482184
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Paulina",
+        "latitude": -22.1092897,
+        "longitude": -50.1603866
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Residencial Bela Vista",
+        "latitude": -21.4105014,
+        "longitude": -51.895984
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Loteamento Chácaras Aurora",
+        "latitude": -22.0902653,
+        "longitude": -50.1618539
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Jardim Acapulco",
+        "latitude": -21.9957266,
+        "longitude": -47.912644
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Loteamento Albertini",
+        "latitude": -22.0089196,
+        "longitude": -47.8755928
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Jardim Alvorada",
+        "latitude": -22.0088975,
+        "longitude": -47.9065725
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Arnaldo",
+        "latitude": -22.01203,
+        "longitude": -47.8815172
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Parque Arnold Schmidt",
+        "latitude": -22.0006876,
+        "longitude": -47.8980306
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Boa Vista Gleba C",
+        "latitude": -22.0324612,
+        "longitude": -47.9076479
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Boa Vista Gleba D",
+        "latitude": -22.0352102,
+        "longitude": -47.9106668
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Jardim Brasil",
+        "latitude": -22.0209128,
+        "longitude": -47.8784926
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Quinta dos Buritis",
+        "latitude": -21.9195195,
+        "longitude": -47.8950916
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila São Caetano",
+        "latitude": -22.0074294,
+        "longitude": -47.8774253
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Recreio Campestre",
+        "latitude": -22.0821324,
+        "longitude": -47.8337995
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Celina",
+        "latitude": -21.9940847,
+        "longitude": -47.8904565
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Centreville",
+        "latitude": -22.0229053,
+        "longitude": -47.8836543
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "C.E.A.T. Centro Empresarial de Alta Tecnologia Dr. Emílio Fehr",
+        "latitude": -22.0705576,
+        "longitude": -47.8826485
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "CIdade Jardim",
+        "latitude": -21.9993177,
+        "longitude": -47.8938185
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Cidade Universitária",
+        "latitude": -22.0057648,
+        "longitude": -47.893992
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Estância Balneária Concórdia",
+        "latitude": -21.9143531,
+        "longitude": -47.8064761
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Estância Balneária Concórdia Prolongamento",
+        "latitude": -21.9084077,
+        "longitude": -47.8056376
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Costa do Sol",
+        "latitude": -22.0022083,
+        "longitude": -47.88387
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Residencial Zangaletti",
+        "latitude": -22.3628559,
+        "longitude": -48.3980092
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Loteamento Parque dos Lilases",
+        "latitude": -22.0177558,
+        "longitude": -47.9034199
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila da Ilha Escura",
+        "latitude": -23.1109699,
+        "longitude": -45.8194532
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Residencial Bosques dos Ipes",
+        "latitude": -23.3405857,
+        "longitude": -47.8189472
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Jardim Letícia",
+        "latitude": -22.1963539,
+        "longitude": -47.4059022
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Jardim Renascença",
+        "latitude": -22.1944952,
+        "longitude": -47.4028067
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Jardim Florença",
+        "latitude": -22.1951864,
+        "longitude": -47.4092477
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Retiro Velho",
+        "latitude": -22.1898946,
+        "longitude": -47.4047599
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Jardim Nova Leme",
+        "latitude": -22.1923161,
+        "longitude": -47.4058601
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Jardim Santa Helena",
+        "latitude": -22.1923324,
+        "longitude": -47.4154419
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Rica",
+        "latitude": -22.1889855,
+        "longitude": -47.4094237
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Villagio D'Italia",
+        "latitude": -22.1878995,
+        "longitude": -47.4121502
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Verde",
+        "latitude": -22.1853731,
+        "longitude": -47.4116498
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Alemoa",
+        "latitude": -23.924831,
+        "longitude": -46.3750066
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Caruara",
+        "latitude": -23.8856873,
+        "longitude": -46.1916657
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Area do Bairro Chico de Paula",
+        "latitude": -23.9334911,
+        "longitude": -46.3657527
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "William Mendes Advocacia",
+        "latitude": -23.9543035,
+        "longitude": -46.3257423
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Jabaquara",
+        "latitude": -23.9437816,
+        "longitude": -46.3387305
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Castelo",
+        "latitude": -23.9437189,
+        "longitude": -46.3794496
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Piratininga",
+        "latitude": -23.9259424,
+        "longitude": -46.3902856
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Radio Clube",
+        "latitude": -23.940237,
+        "longitude": -46.3855177
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Jardim São Manoel",
+        "latitude": -23.930597,
+        "longitude": -46.3838881
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Santa Maria",
+        "latitude": -23.9407152,
+        "longitude": -46.3698545
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Monte Cabrão",
+        "latitude": -23.9159608,
+        "longitude": -46.2832076
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Matias",
+        "latitude": -23.9459198,
+        "longitude": -46.3278486
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila São Jorge",
+        "latitude": -23.9486502,
+        "longitude": -46.3678231
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Nova",
+        "latitude": -23.9405035,
+        "longitude": -46.3220015
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Morro da Nova Cintra",
+        "latitude": -23.946796,
+        "longitude": -46.3533545
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Bom Retiro",
+        "latitude": -23.9368076,
+        "longitude": -46.3760245
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Paquetá",
+        "latitude": -23.9357706,
+        "longitude": -46.3213326
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Saboó",
+        "latitude": -23.9330399,
+        "longitude": -46.3510373
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Valongo",
+        "latitude": -23.9319453,
+        "longitude": -46.338021
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Sao Bento",
+        "latitude": -23.9348401,
+        "longitude": -46.3399338
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Jardim Independência",
+        "latitude": -21.1558516,
+        "longitude": -47.7864105
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Loteamento Industrial Anhanguera",
+        "latitude": -22.200942,
+        "longitude": -47.4019575
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Residencial Giovana",
+        "latitude": -21.1836603,
+        "longitude": -48.91986
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Silvestre",
+        "latitude": -22.7077756,
+        "longitude": -46.7781053
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Centro",
+        "latitude": -22.70494,
+        "longitude": -46.7688639
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Loteamento Nardini",
+        "latitude": -22.7121723,
+        "longitude": -46.7851989
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Jardim das Orquideas",
+        "latitude": -22.7044564,
+        "longitude": -46.7799451
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Jardim Nova Era",
+        "latitude": -22.6862594,
+        "longitude": -46.7765781
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Parque do Sol",
+        "latitude": -22.684187,
+        "longitude": -46.7821704
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Any",
+        "latitude": -23.4748417,
+        "longitude": -46.3982191
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Bela Vista",
+        "latitude": -23.4342051,
+        "longitude": -46.5117968
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "CECAP",
+        "latitude": -23.4555342,
+        "longitude": -46.4978553
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Cocaia",
+        "latitude": -23.4404584,
+        "longitude": -46.5196388
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Paraventi",
+        "latitude": -23.4546188,
+        "longitude": -46.5262214
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Tranquilidade",
+        "latitude": -23.4669625,
+        "longitude": -46.5534168
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Sítio São Francisco",
+        "latitude": -23.4586638,
+        "longitude": -46.4013008
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila da Fepasa",
+        "latitude": -21.7626121,
+        "longitude": -52.0994793
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Passeio Apucarana",
+        "latitude": -20.4320914,
+        "longitude": -51.354619
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Passeio Cambará",
+        "latitude": -20.4315554,
+        "longitude": -51.3553346
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Passeio Curitiba",
+        "latitude": -20.4343815,
+        "longitude": -51.3519009
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Passeio Ipiranga",
+        "latitude": -20.4327102,
+        "longitude": -51.3539852
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Passeio Londrina",
+        "latitude": -20.4338988,
+        "longitude": -51.3526603
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Passeio Palmas",
+        "latitude": -20.4332341,
+        "longitude": -51.3532436
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Inglesa",
+        "latitude": -21.9482795,
+        "longitude": -50.5045042
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Fred Ville",
+        "latitude": -21.9476157,
+        "longitude": -50.5096635
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Loteamento Comercial Nova Alvorada",
+        "latitude": -20.4300918,
+        "longitude": -49.9369055
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Vila Jaguari",
+        "latitude": -24.5944806,
+        "longitude": -48.2155327
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Balneário City Mar",
+        "latitude": -24.7997919,
+        "longitude": -47.6345821
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Jardim Caju II",
+        "latitude": -24.2951581,
+        "longitude": -47.2367931
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Água Parada",
+        "latitude": -24.295206,
+        "longitude": -47.2345321
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Maia",
+        "latitude": -23.455779,
+        "longitude": -46.5307432
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Macedo",
+        "latitude": -23.4633755,
+        "longitude": -46.5181939
+    },
+    {
+        "estado": "SP",
+        "cidade": "São Paulo",
+        "bairro": "Residencial Evidências",
+        "latitude": -23.0852748,
+        "longitude": -47.1614441
+    },
+    {
         "estado": "RJ",
         "cidade": "Rio de Janeiro",
         "bairro": "Parque Rubens Vaz",
