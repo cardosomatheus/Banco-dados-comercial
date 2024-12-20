@@ -14,6 +14,16 @@ class Regiao():
         self.cidade  = Cidade()
         self.conexao = ConexaoBancoOrigem().conectar_banco_origem()
     
+    def busca_regiao_ramdomica(self) -> int:
+        sql = """SELECT id
+                    FROM tb_regiao
+                   ORDER BY RANDOM()
+                   LIMIT 1;"""
+                   
+        with self.conexao.cursor() as cursor:
+            cursor.execute(sql)
+            
+            return cursor.fetchone()[0]
     
     def leitura_json(self) -> pd.DataFrame:
         df = pd.read_json('C:\git matheus\datewarehouse_comercial\src\database_origem\_bairros_brasil.json', orient='records', encoding='utf-8')
@@ -44,10 +54,7 @@ class Regiao():
 
         print('Processo finalizado')
 
-regiao = Regiao()
-#regiao.buscar_id_estado()  
-
-regiao.inserir_regiao()
-
-
-#print(cidade.buscar_id_cidade('Belo Horizonte',17))  
+if __name__ == '__main__':
+    regiao = Regiao()
+    regiao.inserir_regiao()
+ 

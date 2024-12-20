@@ -39,6 +39,7 @@ class Pais(Requisicao):
 
 
 
+
 if __name__ == '__main__':
     pais = Pais()
     pais.inserir_paises()
