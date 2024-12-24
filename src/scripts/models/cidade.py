@@ -25,6 +25,7 @@ class Cidade(Requisicao):
             print('Cidades da uf: ',sigla)
             self.__inserir_cidades(row.get('id'), cidade=cidades_por_uf)
             
+        print('LOG: Inserção de Cidades finalizada.\n')       
         
         
         
@@ -54,8 +55,5 @@ class Cidade(Requisicao):
 
     
 
-if __name__ == '__main__':
-    cidade = Cidade()
-    cidade.Inserir_cidades_por_uf()
 
     

@@ -52,7 +52,7 @@ class Regiao():
                         self.conexao.rollback()
                         continue            
 
-        print('Processo finalizado')
+        print('LOG: Inserção de Regiões finalizada.\n')    
 
 if __name__ == '__main__':
     regiao = Regiao()

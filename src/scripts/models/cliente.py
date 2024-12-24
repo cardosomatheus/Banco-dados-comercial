@@ -40,8 +40,6 @@ class Cliente:
                 except UniqueViolation as iq_pais:
                     self.conexao.rollback()
                     continue        
-            print('processo finalizado')
+            print('LOG: Inserção de Clientes finalizada.\n')    
 
 
-cliente = Cliente()
-print(cliente.inserir_clientes(150))

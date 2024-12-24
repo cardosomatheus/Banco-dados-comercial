@@ -34,7 +34,7 @@ class Estados(Requisicao):
                     self.conexao.rollback()
                     continue 
                     
-        print('LOG: Inserção de estados finalizada.')       
+        print('LOG: Inserção de estados finalizada.\n')       
 
 
     def buscar_id_estado(self, sigla:str) -> int:
@@ -58,7 +58,3 @@ class Estados(Requisicao):
             
             return cursor.fetchall()[0][0]     
 
-if __name__ == '__main__':
-    estados =  Estados()
-    print(estados.buscar_id_estado('  Mg  '))
-    estados.inserir_estados()

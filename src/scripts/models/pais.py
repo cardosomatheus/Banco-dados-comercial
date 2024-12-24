@@ -34,7 +34,7 @@ class Pais(Requisicao):
                     self.conexao.rollback()
                     continue
 
-        print('Paises inseridos com sucesso.')
+        print('Paises inseridos com sucesso.\n')
 
 
     def buscar_id_pais (self) -> int:
@@ -42,6 +42,4 @@ class Pais(Requisicao):
             cursor.execute( """SELECT ID  FROM TB_PAIS WHERE NOME = 'Brasil' AND CONTINENTE = 'América' """)
             return cursor.fetchone()[0]
 
-if __name__ == '__main__':
-    pais = Pais()
-    pais.inserir_paises()
+
