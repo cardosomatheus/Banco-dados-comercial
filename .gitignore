@@ -10,3 +10,4 @@ __pycache__/
 # Ignore arquivos temporários do editor (ex: VS Code, Sublime, etc.)
 .vscode/
 .idea/
+src/database/db_volume/

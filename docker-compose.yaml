@@ -9,4 +9,11 @@ services:
     ports:
       - "5432:5432"
     volumes:
-      - ${VOLUME_ORIGEM}
+      - ./src/database/modelo_relacional.sql:/docker-entrypoint-initdb.d/init.sql
+      - ./src\database\db_volume:/var/lib/postgresql/data # volume do bd
+    networks:
+      - my_network
+
+networks:
+  my_network:
+    driver: bridge
