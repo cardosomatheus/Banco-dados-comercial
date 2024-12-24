@@ -1,3 +1,12 @@
 ﻿# Ignorar arquivos de configuração sensíveis
 .env
 venv/
+
+
+# Ignore __pycache__ directories
+__pycache__/
+*.pyc
+
+# Ignore arquivos temporários do editor (ex: VS Code, Sublime, etc.)
+.vscode/
+.idea/

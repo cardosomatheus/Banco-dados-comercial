@@ -26,7 +26,7 @@ class Regiao():
             return cursor.fetchone()[0]
     
     def leitura_json(self) -> pd.DataFrame:
-        df = pd.read_json(r'src\fonte dados\_bairros_brasil.json', orient='records', encoding='utf-8')
+        df = pd.read_json(r'src\fonte_dados\_bairros_brasil.json', orient='records', encoding='utf-8')
         return df
 
 
