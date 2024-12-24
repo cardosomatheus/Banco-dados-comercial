@@ -1,27 +1,21 @@
-﻿from conexao_origem import ConexaoBancoOrigem
+﻿from conexao_bd import conexao_bd
 from psycopg2.errors import UniqueViolation
 from requisicao import Requisicao
+from estados import Estados
 
 
 class Cidade(Requisicao):
     def __init__(self) -> None:
         super().__init__()
         self.url_get = 'https://servicodados.ibge.gov.br/api/v1/localidades/estados/' #{UF}/municipios'         
-        self.conexao = ConexaoBancoOrigem().conectar_banco_origem()
-
+        self.conexao = conexao_bd()
+        self.estado  = Estados() 
   
-    def lista_estados(self) -> dict:
-        with self.conexao.cursor() as cursor:
-            cursor.execute(""" SELECT JSON_AGG(JS)::JSONB 
-                                    FROM (SELECT ID, SIGLA 
-                                            FROM TB_ESTADO) JS ;
-                           """ )
-            
-            return cursor.fetchall()[0][0]
+
     
     
     def Inserir_cidades_por_uf(self) -> None:
-        estados_json = self.lista_estados()
+        estados_json = self.estado.lista_estados()
         
         for row in estados_json:
             sigla = row.get('sigla')

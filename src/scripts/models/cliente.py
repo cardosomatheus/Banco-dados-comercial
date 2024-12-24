@@ -1,12 +1,12 @@
 ﻿from faker import Faker
-from conexao_origem import ConexaoBancoOrigem
+from conexao_bd import conexao_bd
 from psycopg2.errors import UniqueViolation
 from regiao import Regiao
 
 class Cliente:
     def __init__(self):
         self.faker = Faker('pt_BR')
-        self.conexao = ConexaoBancoOrigem().conectar_banco_origem()
+        self.conexao = conexao_bd()
         self.dict_clientes = {}
         self.regiao = Regiao()
         

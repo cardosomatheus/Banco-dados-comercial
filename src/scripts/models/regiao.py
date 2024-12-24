@@ -1,4 +1,4 @@
-﻿from conexao_origem import ConexaoBancoOrigem
+﻿from conexao_bd import conexao_bd
 from psycopg2.errors import UniqueViolation
 from requisicao import Requisicao
 from estados import Estados
@@ -12,7 +12,7 @@ class Regiao():
         super().__init__()
         self.estados = Estados()
         self.cidade  = Cidade()
-        self.conexao = ConexaoBancoOrigem().conectar_banco_origem()
+        self.conexao = conexao_bd()
     
     def busca_regiao_ramdomica(self) -> int:
         sql = """SELECT id
@@ -26,7 +26,7 @@ class Regiao():
             return cursor.fetchone()[0]
     
     def leitura_json(self) -> pd.DataFrame:
-        df = pd.read_json('C:\git matheus\datewarehouse_comercial\src\database_origem\_bairros_brasil.json', orient='records', encoding='utf-8')
+        df = pd.read_json(r'src\fonte dados\_bairros_brasil.json', orient='records', encoding='utf-8')
         return df
 
 
