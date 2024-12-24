@@ -1,38 +1,19 @@
 ﻿Cenário
-Uma loja de e-commerce deseja analisar suas operações e melhorar a tomada de decisão. O Data Warehouse será usado para centralizar informações sobre vendas, clientes, produtos e marketing.
 
-Regras de Negócio
-Granularidade dos dados
+Uma loja de e-commerce deseja criar e gerenciar um banco de dados para apoiar suas operações e fornecer dados consistentes para análises. Esse banco de dados será projetado para armazenar informações de clientes, produtos, pedidos, pagamentos e campanhas de marketing. Além disso, será populado com dados simulados para validação e testes.
 
-O Data Warehouse deve armazenar as vendas no nível de detalhe de cada transação (uma linha por pedido ou item vendido).
-Histórico de dados
+Objetivos do Projeto:
 
-Manter o histórico de vendas dos últimos 3 anos, permitindo comparações sazonais.
-Periodicidade de atualização
+    1 - Criar um banco de dados relacional para armazenar as operações de e-commerce.
+    2 - Populá-lo com dados fictícios para simular cenários reais.
+    3 - Fornecer uma base consistente para futuras análises de dados e desenvolvimento de aplicações.
 
-Os dados das transações devem ser atualizados diariamente no DW após o fechamento das operações do dia.
 
-Categorizar clientes em grupos com base no total gasto em compras:
-Bronze: Clientes que gastaram até $500.
-Prata: Clientes que gastaram entre $501 e $2000.
-Ouro: Clientes que gastaram acima de $2000.
-Indicadores-chave (KPIs)
+Regras de Negócio:
 
-O Data Warehouse deve permitir calcular os seguintes indicadores:
-Faturamento diário, mensal e anual.
-Margem de lucro por produto e por categoria.
-Produtos mais vendidos por região.
-Ticket médio (valor médio por transação).
-Dados de marketing
+ 1 - Histórico de Dados: Manter o histórico de pedidos e pagamentos nos últimos 3 anos.
 
-Relacionar vendas com campanhas publicitárias (ex.: promoções, e-mails de marketing).
-Calcular o ROI (Retorno sobre o Investimento) de campanhas, comparando os custos com o faturamento gerado.
-Geolocalização
-
-Armazenar o país e a cidade de onde as vendas foram realizadas, permitindo análises regionais.
-Análise de sazonalidade
-
-Marcar as vendas feitas em feriados ou períodos promocionais (ex.: Black Friday, Natal) para identificar picos de consumo.
-Controle de acessos
-
-Analistas de marketing terão acesso apenas aos dados agregados de vendas e campanhas, enquanto o time financeiro terá acesso ao faturamento detalhado.
+Categorias de Clientes:
+    1 - Bronze: Clientes que gastaram até $500.
+    2 - Prata: Clientes que gastaram entre $501 e $2000.
+    3 - Ouro: Clientes que gastaram acima de $2000.

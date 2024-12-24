@@ -10,13 +10,3 @@ services:
       - "5432:5432"
     volumes:
       - ${VOLUME_ORIGEM}
-  
-  db-destino:
-    image: postgres:latest
-    environment:
-      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD_DESTINO}
-      POSTGRES_USER: ${POSTGRES_USER_DESTINO}
-    ports:
-      - "5433:5432"
-    volumes:
-      - ${VOLUME_DESTINO}
