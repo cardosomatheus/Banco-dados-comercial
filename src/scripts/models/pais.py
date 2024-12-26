@@ -6,14 +6,6 @@ from conexao_bd import conexao_bd
 from requisicao import Requisicao
 from io import StringIO
 
-import pandas as pd
-import psycopg2
-from bs4 import BeautifulSoup
-import psycopg2.extras
-from conexao_bd import conexao_bd
-from requisicao import Requisicao
-from io import StringIO
-
 
 class Pais(Requisicao):
     def __init__(self):
@@ -52,6 +44,7 @@ class Pais(Requisicao):
             raise Exception(f"Erro ao buscar tabela de países: {e}")
         
 
+
     def _leitura_tabela_html(self, tabela_pandas_html: str) -> pd.DataFrame:
         """
         Converte o conteúdo da tabela HTML para um DataFrame do pandas.
@@ -68,6 +61,7 @@ class Pais(Requisicao):
         df.columns = ['NOME', 'CAPITAL', 'CONTINENTE']  # Renomeia colunas
         return df
     
+
 
     def inserir_paises(self) -> None:
         """
@@ -100,7 +94,7 @@ class Pais(Requisicao):
 
     def buscar_id_pais(self, nome_pais: str = 'Brasil', continente: str = 'América') -> int:
         """
-        O valor será estatico no Brasil até então.
+        O valor será estático no Brasil até então.
         Busca o ID de um país específico no banco de dados, com base no nome e no continente.
 
         :param nome_pais: Nome do país. Padrão é 'Brasil'.
