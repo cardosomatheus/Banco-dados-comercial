@@ -61,10 +61,13 @@ class Regiao:
             if df.empty:
                 raise Exception("O arquivo JSON não contém dados.")   
                              
+            print('LOG: Adicinando id_cidade no Dataframe, aguarde...')                             
             for index, row in df.iterrows():
                 id_estado = self.estados.buscar_id_estado(sigla=row[0])
                 id_cidade = self.cidade.buscar_id_cidade(nome=row[1], id_estado=id_estado)
                 df.at[index,"id_cidade"] = id_cidade
+                
+            print('LOG: Finalizado dataframe, partiu inserção')                             
             return df
         
         except Exception as e:
@@ -98,10 +101,6 @@ class Regiao:
 
         print('LOG: Processo de regiões Finalizado.')
 
-
-
-Regiao().inserir_regiao()
-#buscar_id_cidade()
 
 
 
