@@ -78,7 +78,7 @@ class Cidade(Requisicao):
         Returns:
             int: ID da cidade se encontrada, ou None caso não exista.
         """
-        query = """SELECT ID FROM TB_CIDADE WHERE UPPER(TRIM(NOME)) = UPPER(TRIM(%s)) AND ID_ESTADO = %s"""
+        query = """SELECT ID FROM TB_CIDADE WHERE NOME= %s AND ID_ESTADO = %s"""
         with conexao_bd() as conexao:
             with conexao.cursor() as cursor:
                 try:

@@ -53,7 +53,7 @@ class Estados(Requisicao):
         :return: ID do estado.
         :raises ValueError: Se o estado não for encontrado no banco de dados.
         """
-        sigla = sigla.strip.upper()
+        #sigla = sigla.upper()
 
         with conexao_bd() as conexao:
             with conexao.cursor() as cursor:
