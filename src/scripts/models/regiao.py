@@ -1,12 +1,4 @@
-﻿import psycopg2.extras
-from conexao_bd import conexao_bd
-import psycopg2
-from requisicao import Requisicao
-from estados import Estados
-from cidade import Cidade
-import pandas as pd
-
-from conexao_bd import conexao_bd
+﻿from conexao_bd import conexao_bd
 from psycopg2.errors import UniqueViolation
 from requisicao import Requisicao
 from estados import Estados
