@@ -74,20 +74,16 @@ class Pais(Requisicao):
         """
         df_pandas = self.busca_tabela_de_paises()
         data = [tuple(row) for row in df_pandas.to_records(index=False)]
-        
         query = """INSERT INTO TB_PAIS (NOME, CAPITAL, CONTINENTE)
                     VALUES (%s, %s, %s)  
-                 ON CONFLICT (NOME) DO NOTHING;
+                ON CONFLICT DO NOTHING;
                 """
         with conexao_bd() as conexao:
             with conexao.cursor() as cursor:             
-                try:
-                    psycopg2.extras.execute_batch(cursor, query, data)
-                    conexao.commit()
-                                                
-                except Exception as e:
-                    conexao.rollback()
-                    raise Exception(f"Erro ao inserir países no banco: {e}")
+                psycopg2.extras.execute_batch(cursor, query, data)
+                conexao.commit()
+
+                    
 
         print('Log: Processo de países finalizado.\n')
 
@@ -113,3 +109,5 @@ class Pais(Requisicao):
                     return resultado[0]
                 else:
                     raise ValueError(f"País '{nome_pais}' no continente '{continente}' não encontrado.")
+
+Pais().inserir_paises()
