@@ -78,6 +78,7 @@ class Pais(Requisicao):
                     VALUES (%s, %s, %s)  
                 ON CONFLICT DO NOTHING;
                 """
+        print('Log: Processo de países Inicializado...\n')    
         with conexao_bd() as conexao:
             with conexao.cursor() as cursor:             
                 psycopg2.extras.execute_batch(cursor, query, data)

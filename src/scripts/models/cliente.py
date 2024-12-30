@@ -44,7 +44,7 @@ class Cliente:
                 with conexao.cursor() as cursor:                    
                     query ="""INSERT INTO TB_CLIENTE (NOME, DOCUMENTO, ID_REGIAO) 
                                 VALUES (%s, %s, %s)
-                               ON CONFLICT (DOCUMENTO) DO NOTHING;
+                               ON CONFLICT DO NOTHING;
                             """
                     psycopg2.extras.execute_batch(cur=cursor,sql=query, argslist=dados_clientes)
                     conexao.commit()

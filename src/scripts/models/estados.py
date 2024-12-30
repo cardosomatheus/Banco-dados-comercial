@@ -26,20 +26,14 @@ class Estados(Requisicao):
 
         with conexao_bd() as conexao:
             with conexao.cursor() as cursor:
-                try:
-                    # Inserção em batch
-                    query = """INSERT 
-                                INTO TB_ESTADO(NOME, SIGLA, ID_PAIS) VALUES (%s, %s, %s)
-                                ON CONFLICT (NOME, SIGLA, ID_PAIS) DO NOTHING;
-                            """
-                                
-                    psycopg2.extras.execute_batch(cursor, query, data)
-                    
-                    # Commit após a inserção em batch
-                    conexao.commit()
-
-                except Exception as e:
-                    conexao.rollback()
+                # Inserção em batch
+                query = """INSERT 
+                            INTO TB_ESTADO(NOME, SIGLA, ID_PAIS) VALUES (%s, %s, %s)
+                            ON CONFLICT DO NOTHING;
+                        """
+                            
+                psycopg2.extras.execute_batch(cursor, query, data)
+                conexao.commit()
 
 
         print('Log: Processo de Estados finalizado.\n')

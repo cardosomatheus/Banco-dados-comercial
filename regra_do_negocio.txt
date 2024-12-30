@@ -9,11 +9,8 @@ Objetivos do Projeto:
     3 - Fornecer uma base consistente para futuras análises de dados e desenvolvimento de aplicações.
 
 
-Regras de Negócio:
-
- 1 - Histórico de Dados: Manter o histórico de pedidos e pagamentos nos últimos 3 anos.
 
 Categorias de Clientes:
-    1 - Bronze: Clientes que gastaram até $500.
-    2 - Prata: Clientes que gastaram entre $501 e $2000.
-    3 - Ouro: Clientes que gastaram acima de $2000.
+    1 - Bronze: Clientes que gastaram até R$500.
+    2 - Prata: Clientes que gastaram entre R$501 e R$1000.
+    3 - Ouro: Clientes que gastaram acima de R$1500.

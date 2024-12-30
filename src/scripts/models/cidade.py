@@ -34,16 +34,12 @@ class Cidade(Requisicao):
     
         with conexao_bd() as conexao:
             with conexao.cursor() as cursor:
-                try:
-                    query = """INSERT INTO TB_CIDADE (NOME, ID_IBGE, ID_ESTADO) 
-                                VALUES (%s, %s, %s) 
-                                ON CONFLICT (ID_IBGE) DO NOTHING"""
-                    
-                    psycopg2.extras.execute_batch(cursor, query, data)
-                    conexao.commit()
-                except Exception as e:
-                    conexao.rollback()
-                    raise Exception(f"Erro ao inserir cidades no estado {id_estado}: {e}")
+                query = """INSERT INTO TB_CIDADE (NOME, ID_IBGE, ID_ESTADO) 
+                            VALUES (%s, %s, %s) 
+                            ON CONFLICT (ID_IBGE) DO NOTHING"""
+                
+                psycopg2.extras.execute_batch(cursor, query, data)
+                conexao.commit()
            
     def Inserir_cidades_por_uf(self) -> None:
         """
@@ -53,7 +49,6 @@ class Cidade(Requisicao):
             Exception: Se a lista de estados estiver vazia.
         """
         estados_json = self.estado.lista_estados()
-        
         if estados_json is None:
             raise Exception("Lista de estados vazia.")
         

@@ -1,5 +1,5 @@
 ﻿from conexao_bd import conexao_bd
-from psycopg2.errors import UniqueViolation
+import psycopg2
 from requisicao import Requisicao
 from estados import Estados
 from cidade import Cidade
@@ -76,20 +76,18 @@ class Regiao:
 
         data = ((str(row['latitude']), str(row['longitude']), row['bairro'], row["id_cidade"]) for row in df_pandas.to_records(index=False))
         
-        print('LOG: Processo de regiões Inicializado.')
+        print('LOG: Processo de regiões Inicializado...')
         query = """
                  INSERT INTO TB_REGIAO (LATITUDE, LONGITUDE, BAIRRO, ID_CIDADE)
                     VALUES (%s, %s, %s, %s)
-                   ON CONFLICT (LATITUDE, LONGITUDE) DO NOTHING;
+                   ON CONFLICT DO NOTHING;
                 """
                 
         with conexao_bd() as conexao:
             with conexao.cursor() as cursor:                        
-                try:
-                    psycopg2.extras.execute_batch(cur=cursor, sql=query, argslist= data)   
-                    conexao.commit()
-                except Exception as e:
-                    conexao.rollback()
+                psycopg2.extras.execute_batch(cur=cursor, sql=query, argslist= data)   
+                conexao.commit()
+
 
         print('LOG: Processo de regiões Finalizado.')
 
